@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DirectionalCompass (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DirectionalCompass (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

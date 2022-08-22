@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionalCompass", "DirectionalCompass\DirectionalCompass.csproj", "{54CD94FE-46DE-4B8F-BE22-891E7F960211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|arm64.ActiveCfg = Debug|arm64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|arm64.Build.0 = Debug|arm64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|arm64.Deploy.0 = Debug|arm64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|x64.ActiveCfg = Debug|x64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|x64.Build.0 = Debug|x64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|x64.Deploy.0 = Debug|x64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|x86.ActiveCfg = Debug|x86
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|x86.Build.0 = Debug|x86
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Debug|x86.Deploy.0 = Debug|x86
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|arm64.ActiveCfg = Release|arm64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|arm64.Build.0 = Release|arm64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|arm64.Deploy.0 = Release|arm64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|x64.ActiveCfg = Release|x64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|x64.Build.0 = Release|x64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|x64.Deploy.0 = Release|x64
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|x86.ActiveCfg = Release|x86
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|x86.Build.0 = Release|x86
+		{54CD94FE-46DE-4B8F-BE22-891E7F960211}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52016D0D-9274-4952-95BC-24587D217420}
+	EndGlobalSection
+EndGlobal

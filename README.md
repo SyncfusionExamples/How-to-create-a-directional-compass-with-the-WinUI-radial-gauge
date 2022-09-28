@@ -1,10 +1,10 @@
 # How-to-create-a-directional-compass-with-the-WinUI-radial-gauge
 
-This repository contains sample for how to create a directional compass with the [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
+This repository contains sample for how to create a directional compass with the [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
 ## Syncfuion controls
 
-This project used the following Syncfusion controls:
+This project used the following Syncfusion control(s):
 * [SfRadialGauge](https://www.syncfusion.com/winui-controls/radial-gauge)
 
 ## Requirements to run the sample
